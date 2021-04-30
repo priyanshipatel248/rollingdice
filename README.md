@@ -1,2 +1,2 @@
 # rollingdice
-Tkinter based  roll a dice game.
+ roll a dice using python and Tkinter.
